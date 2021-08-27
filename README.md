@@ -15,6 +15,7 @@ Some predictions of the model.
 ![Predict1](https://github.com/ThuanPhong0126/Machine-Translation-Chinese-English/blob/main/img/predict1.png)
 ![Predict2](https://github.com/ThuanPhong0126/Machine-Translation-Chinese-English/blob/main/img/predict2.png)
 
+To be continued.......
 # References
 * Tensorflow official tutorial: [Neural Machine Translation with Attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
 * Seq2Seq Learning & [Neural Machine Translation](https://nthu-datalab.github.io/ml/labs/13-1_Seq2Seq-Learning_Neural-Machine-Translation/13-1_Seq2Seq-Learning_Neural-Machine-Translation.html#Checkpoints-(Object-based-saving))
